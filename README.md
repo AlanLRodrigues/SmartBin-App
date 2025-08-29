@@ -12,4 +12,5 @@ Monitor the SmartBin remotely and provide visual feedback of its fill level.
 - Designed for mobile devices with **React Native**  
 
 ## 🔗 See Also
-- [SmartBin Firmware](https://github.com/AlanLRodrigues/SmartBin-Firmware) – Arduino IDE code for ESP32
+- [SmartBin Firmware](https://github.com/AlanLRodrigues/SmartBin-Firmware) – Arduino IDE code for ESP32]
+- [CAD Repository](https://github.com/AlanLRodrigues/SmartBin-Cad) – CAD modeling of the SmartBin including full assembly and individual parts in Inventor, STEP, and STL formats
