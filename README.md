@@ -15,4 +15,22 @@ Monitor the SmartBin remotely and provide visual feedback of its fill level.
 - [SmartBin Firmware](https://github.com/AlanLRodrigues/SmartBin-Firmware) – Arduino IDE code for ESP32
 - [CAD Repository](https://github.com/AlanLRodrigues/SmartBin-Cad) – CAD modeling, including full assembly and individual parts in Inventor, STEP, and STL formats.
 - [Project Presentation on LinkedIn](https://www.linkedin.com/posts/alan-l-rodrigues_autodesk-inovaaexaeto-tecnologia-activity-7368059707657281536-kHms?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEIgUh4Bf1z74_vh6GR_8Xv0OB6i7l0Y3_0) – Overview and development insights shared on LinkedIn
-- This project was developed in collaboration with [@RafaelOMarins](https://github.com/RafaelOMarins)
+
+## 👥 Authors
+
+Project developed as a team by:
+
+- **Alan de Lima Rodrigues**  
+  [GitHub](https://github.com/AlanLRodrigues)
+
+- **Daniel Freire de Sousa**  
+  [GitHub]()
+
+- **Guilherme Santos Coelho**  
+  [GitHub]()
+
+- **Miqueias Felipe Marques Quesado**  
+  [GitHub](https://github.com/Mikke7935)
+
+- **Rafael de Oliveira Marins**  
+  [GitHub](https://github.com/RafaelOMarins)
